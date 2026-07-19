@@ -41,7 +41,7 @@ export function Header() {
             <span className="font-display text-lg md:text-xl tracking-wide">
               {getCabinetName(locale)}
             </span>
-            <span className="text-[11px] uppercase tracking-[0.2em] text-dore-fonce">
+            <span className="text-[11px]  tracking-[0.2em] text-dore-fonce">
               {tHeader("tagline")}
             </span>
           </span>
