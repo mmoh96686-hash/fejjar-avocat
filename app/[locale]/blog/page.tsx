@@ -52,7 +52,7 @@ export default async function BlogPage({
                   className="group flex flex-col sm:flex-row sm:items-center justify-between gap-4 py-8 border-t border-noir/10"
                 >
                   <div className="max-w-2xl">
-                    <span className="text-[11px] uppercase tracking-[0.15em] text-dore-fonce">
+                    <span className="text-[11px]  tracking-[0.15em] text-dore-fonce">
                       {post.domaine} · {formatDate(post.date, locale as Locale)}
                     </span>
                     <h2 className="mt-2 font-display text-2xl group-hover:text-dore-fonce transition-colors">
