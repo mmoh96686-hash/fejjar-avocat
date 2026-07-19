@@ -1,0 +1,131 @@
+@import "tailwindcss";
+
+:root {
+  --noir: #0b0b0c;
+  --anthracite: #26262a;
+  --dore: #b08d45;
+  --dore-fonce: #8c6d32;
+  --blanc-casse: #f7f5f1;
+  --gris-clair: #e4e1db;
+
+  --display-font-family: "Fraunces", ui-serif, Georgia, serif;
+  --body-font-family: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+/* Arabic pages use a typeface pairing designed for Arabic script: Amiri
+   (classical naskh, elegant/prestigious — mirrors Fraunces' editorial
+   character) for headings, and Cairo (modern geometric sans, excellent
+   screen legibility) for body text. */
+html[lang="ar"] {
+  --display-font-family: "Amiri", "Traditional Arabic", serif;
+  --body-font-family: "Cairo", "Noto Sans Arabic", sans-serif;
+}
+
+@theme inline {
+  --color-noir: var(--noir);
+  --color-anthracite: var(--anthracite);
+  --color-dore: var(--dore);
+  --color-dore-fonce: var(--dore-fonce);
+  --color-blanc-casse: var(--blanc-casse);
+  --color-gris-clair: var(--gris-clair);
+  --font-display: var(--display-font-family);
+  --font-body: var(--body-font-family);
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--blanc-casse);
+  color: var(--noir);
+  font-family: var(--body-font-family);
+}
+
+/* Arabic naskh renders slightly larger visually at the same font-size and
+   benefits from extra line-height for comfortable reading. */
+html[lang="ar"] body {
+  line-height: 1.75;
+}
+
+::selection {
+  background: var(--dore);
+  color: var(--noir);
+}
+
+:focus-visible {
+  outline: 2px solid var(--dore);
+  outline-offset: 3px;
+}
+
+.font-display {
+  font-family: var(--display-font-family);
+}
+
+.hairline {
+  height: 1px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    var(--dore) 15%,
+    var(--dore) 85%,
+    transparent
+  );
+}
+
+html[dir="rtl"] .hairline {
+  background: linear-gradient(
+    to left,
+    transparent,
+    var(--dore) 15%,
+    var(--dore) 85%,
+    transparent
+  );
+}
+
+.hairline-solid {
+  height: 1px;
+  background: var(--dore);
+  opacity: 0.35;
+}
+
+.prose-legal h2 {
+  font-family: var(--display-font-family);
+  font-size: 1.5rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  color: var(--noir);
+}
+
+.prose-legal p {
+  font-size: 15px;
+  line-height: 1.8;
+  color: color-mix(in srgb, var(--noir) 72%, transparent);
+  margin-bottom: 1.25rem;
+}
+
+.prose-legal ul {
+  margin: 1.25rem 0;
+  padding-inline-start: 1.25rem;
+  list-style: disc;
+}
+
+.prose-legal li {
+  font-size: 15px;
+  line-height: 1.8;
+  color: color-mix(in srgb, var(--noir) 72%, transparent);
+  margin-bottom: 0.5rem;
+}
+
+.prose-legal strong {
+  color: var(--noir);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

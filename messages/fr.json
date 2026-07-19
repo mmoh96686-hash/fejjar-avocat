@@ -1,0 +1,445 @@
+{
+  "common": {
+    "hours": "Lundi – Vendredi · 9h00 – 17h00"
+  },
+  "meta": {
+    "titleDefault": "Maître Abdelkader Fejjar — Avocat au Barreau de Casablanca",
+    "titleTemplate": "%s — Maître Abdelkader Fejjar",
+    "description": "Cabinet d'avocats basé à Casablanca. Droit du travail, recouvrement, famille, commercial, pénal, civil et immobilier. Prise en charge, défense et suivi rigoureux de vos dossiers, en toute confidentialité.",
+    "ogDescription": "Cabinet d'avocats basé à Casablanca. Prise en charge, défense et suivi rigoureux de vos dossiers, en toute confidentialité.",
+    "keywords": [
+      "avocat Casablanca",
+      "cabinet avocat Casablanca",
+      "cabinet d'avocat Casablanca",
+      "avocat Maroc",
+      "avocat droit du travail Casablanca",
+      "avocat recouvrement de créances Casablanca",
+      "avocat droit de la famille Casablanca",
+      "avocat divorce Casablanca",
+      "avocat droit commercial Casablanca",
+      "avocat droit des affaires Casablanca",
+      "avocat pénal Casablanca",
+      "avocat droit civil Casablanca",
+      "avocat immobilier Casablanca",
+      "avocat droit immobilier Casablanca",
+      "cabinet juridique Casablanca",
+      "avocat francophone Casablanca",
+      "avocat arabophone Casablanca",
+      "avocat près de moi Casablanca",
+      "Maître Abdelkader Fejjar",
+      "défense juridique Casablanca",
+      "prise en charge de dossiers Casablanca",
+      "avocat succession Casablanca",
+      "avocat licenciement Casablanca",
+      "avocat contrat de travail Casablanca",
+      "avocat société Casablanca",
+      "avocat garde à vue Casablanca",
+      "cabinet d'avocat Maroc",
+      "محامي الدار البيضاء",
+      "مكتب محاماة الدار البيضاء"
+    ]
+  },
+  "nav": {
+    "cabinet": "Le Cabinet",
+    "domaines": "Domaines d'intervention",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "bookAppointment": "Prendre rendez-vous"
+  },
+  "header": {
+    "tagline": "Avocat au Barreau de Casablanca",
+    "langSwitchLabel": "Langue",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu"
+  },
+  "footer": {
+    "intro": "Cabinet d'avocats basé à Casablanca, au service des particuliers, des entrepreneurs et des sociétés. Un accompagnement rigoureux, discret et personnalisé, à chaque étape de votre dossier.",
+    "domainesTitle": "Domaines",
+    "cabinetTitle": "Cabinet",
+    "rights": "Tous droits réservés.",
+    "mentionsLegales": "Mentions légales",
+    "politiqueConfidentialite": "Politique de confidentialité"
+  },
+  "hero": {
+    "eyebrow": "Avocat au Barreau de Casablanca",
+    "titleLine1": "Une défense juridique",
+    "titleLine2": "rigoureuse et discrète.",
+    "description": "Maître Abdelkader Fejjar accompagne particuliers, entrepreneurs et sociétés à Casablanca en droit du travail, recouvrement, famille, commercial, pénal, civil et immobilier, avec rigueur, discrétion et un suivi personnalisé de chaque dossier.",
+    "ctaPrimary": "Prendre rendez-vous",
+    "ctaWhatsapp": "Rendez-vous WhatsApp",
+    "tagRight": "Écoute · Rigueur · Discrétion"
+  },
+  "about": {
+    "eyebrow": "Le Cabinet",
+    "title": "Une pratique fondée sur l'exigence et la confidentialité.",
+    "p1": "Installé à Casablanca, le cabinet de Maître Abdelkader Fejjar accompagne une clientèle exigeante : particuliers, entrepreneurs, commerçants et sociétés en quête d'une prise en charge juridique rigoureuse et d'une défense déterminée.",
+    "p2": "Chaque dossier fait l'objet d'une analyse personnalisée et d'un suivi rigoureux. Le cabinet privilégie l'écoute, la précision juridique et une communication directe et transparente avec ses clients.",
+    "cta": "Découvrir le cabinet"
+  },
+  "practice": {
+    "eyebrow": "Domaines d'intervention",
+    "title": "Un accompagnement juridique complet."
+  },
+  "whyUs": {
+    "eyebrow": "Pourquoi ce cabinet",
+    "title": "Ce qui distingue notre accompagnement.",
+    "items": [
+      {
+        "title": "Professionnalisme et rigueur",
+        "text": "Chaque dossier est traité avec la même exigence méthodique, de l'analyse initiale jusqu'à sa résolution."
+      },
+      {
+        "title": "Écoute et accompagnement personnalisé",
+        "text": "Un temps d'écoute réel est accordé à chaque client, pour une stratégie juridique adaptée à sa situation propre."
+      },
+      {
+        "title": "Discrétion absolue",
+        "text": "Chaque dossier est traité avec une confidentialité stricte, dans le respect du secret professionnel."
+      },
+      {
+        "title": "Disponibilité réelle",
+        "text": "Un interlocuteur unique, joignable et réactif, du premier échange jusqu'à la clôture du dossier."
+      }
+    ]
+  },
+  "method": {
+    "eyebrow": "Méthode de travail",
+    "title": "Une procédure claire, à chaque étape.",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Premier entretien",
+        "text": "Écoute de votre situation et évaluation initiale, par téléphone, WhatsApp ou au cabinet."
+      },
+      {
+        "num": "02",
+        "title": "Analyse du dossier",
+        "text": "Étude approfondie des pièces et des enjeux, et présentation d'une stratégie."
+      },
+      {
+        "num": "03",
+        "title": "Action et représentation",
+        "text": "Négociation, rédaction d'actes ou représentation devant les juridictions compétentes."
+      },
+      {
+        "num": "04",
+        "title": "Suivi jusqu'au résultat",
+        "text": "Accompagnement jusqu'à la résolution du dossier et exécution de la décision."
+      }
+    ]
+  },
+  "stats": {
+    "items": [
+      {
+        "value": "100%",
+        "label": "dossiers suivis personnellement"
+      },
+      {
+        "value": "24h",
+        "label": "délai de réponse moyen"
+      },
+      {
+        "value": "8",
+        "label": "domaines de compétence"
+      },
+      {
+        "value": "1",
+        "label": "interlocuteur unique, du début à la fin"
+      }
+    ]
+  },
+  "faqPreview": {
+    "eyebrow": "Questions fréquentes",
+    "title": "Les réponses aux questions les plus posées.",
+    "ctaAll": "Toutes les questions"
+  },
+  "faqPage": {
+    "eyebrow": "FAQ",
+    "title": "Questions fréquentes",
+    "description": "Vous ne trouvez pas de réponse à votre question ? Contactez directement le cabinet."
+  },
+  "faqItems": [
+    {
+      "q": "Comment se déroule le premier rendez-vous ?",
+      "a": "Le premier entretien permet d'exposer votre situation, de répondre à vos questions et d'évaluer la prise en charge de votre dossier. Il peut se tenir au cabinet, par téléphone ou via WhatsApp selon vos disponibilités."
+    },
+    {
+      "q": "Le cabinet intervient-il en dehors de Casablanca ?",
+      "a": "Le cabinet est basé à Casablanca et intervient devant les juridictions de la région. Certains dossiers peuvent être suivis à distance selon leur nature ; contactez-nous pour en discuter."
+    },
+    {
+      "q": "Dans quelle langue les dossiers sont-ils traités ?",
+      "a": "Les dossiers du cabinet sont traités en langue arabe, langue de travail devant les juridictions marocaines. Les échanges préalables avec le client peuvent se faire en français pour plus de clarté."
+    },
+    {
+      "q": "Quels documents apporter au premier rendez-vous ?",
+      "a": "Toute pièce en lien avec votre dossier (contrats, courriers, jugements, actes) permet d'accélérer l'analyse. En l'absence de documents, un échange oral suffit pour démarrer."
+    },
+    {
+      "q": "Combien de temps dure une procédure ?",
+      "a": "La durée varie fortement selon la nature du dossier et la juridiction saisie. Une estimation réaliste vous sera communiquée après l'analyse initiale de votre situation."
+    }
+  ],
+  "blogPreview": {
+    "eyebrow": "Le blog",
+    "title": "Repères juridiques et actualités.",
+    "ctaAll": "Tous les articles"
+  },
+  "blogPage": {
+    "eyebrow": "Blog",
+    "title": "Repères juridiques et actualités.",
+    "description": "Des articles pour comprendre vos droits et anticiper vos démarches, rédigés par le cabinet.",
+    "backToBlog": "Retour au blog",
+    "frenchOnlyNotice": "Cet article est actuellement disponible en français uniquement. Sa version arabe sera publiée prochainement."
+  },
+  "contactSection": {
+    "eyebrow": "Contact",
+    "title": "Parlons de votre situation.",
+    "description": "Décrivez votre demande par e-mail ou WhatsApp, un membre du cabinet vous recontacte sous 24 heures ouvrées."
+  },
+  "contactPage": {
+    "eyebrow": "Contact",
+    "title": "Prenez rendez-vous avec le cabinet.",
+    "description": "Décrivez votre situation par e-mail ou WhatsApp, un membre du cabinet vous recontacte sous 24 heures ouvrées.",
+    "mapTitle": "Localisation du cabinet",
+    "orDivider": "ou"
+  },
+  "contactForm": {
+    "nom": "Nom complet",
+    "telephone": "Téléphone",
+    "email": "E-mail",
+    "objet": "Objet de la demande",
+    "objetPlaceholder": "Ex. Demande de rendez-vous",
+    "domaine": "Domaine concerné",
+    "domaineSelect": "Sélectionnez un domaine",
+    "message": "Votre message",
+    "consent": "J'accepte que mes informations soient utilisées par le cabinet pour traiter ma demande, conformément à la",
+    "consentLink": "politique de confidentialité",
+    "submit": "Envoyer ma demande",
+    "sending": "Envoi en cours",
+    "successTitle": "Votre demande a bien été envoyée.",
+    "successText": "Le cabinet reviendra vers vous dans les meilleurs délais, généralement sous 24 heures ouvrées.",
+    "errorText": "Une erreur est survenue. Merci de réessayer ou de nous contacter par téléphone.",
+    "errors": {
+      "nom": "Veuillez indiquer votre nom complet.",
+      "email": "Adresse e-mail invalide.",
+      "telephone": "Veuillez indiquer un numéro valide.",
+      "objet": "Veuillez préciser l'objet de votre demande.",
+      "domaine": "Veuillez sélectionner un domaine.",
+      "message": "Merci de détailler votre demande (20 caractères minimum).",
+      "consentement": "Le consentement est requis pour être recontacté."
+    }
+  },
+  "finalCta": {
+    "eyebrow": "Un dossier à évoquer ?",
+    "title": "Prenez rendez-vous avec le cabinet dès aujourd'hui.",
+    "ctaPrimary": "Prendre rendez-vous",
+    "ctaWhatsapp": "Rendez-vous WhatsApp",
+    "ctaCall": "Appeler le cabinet"
+  },
+  "whatsapp": {
+    "buttonLabel": "WhatsApp",
+    "floatingAriaLabel": "Prendre rendez-vous sur WhatsApp",
+    "modal": {
+      "title": "Rendez-vous via WhatsApp",
+      "description": "Renseignez ces informations pour générer votre message, puis continuez sur WhatsApp.",
+      "nameLabel": "Nom complet",
+      "namePlaceholder": "Votre nom",
+      "phoneLabel": "Téléphone",
+      "phonePlaceholder": "06 00 00 00 00",
+      "domainLabel": "Domaine concerné",
+      "domainPlaceholder": "Sélectionnez un domaine",
+      "submit": "Continuer sur WhatsApp",
+      "cancel": "Annuler",
+      "close": "Fermer",
+      "errorName": "Veuillez indiquer votre nom.",
+      "errorPhone": "Veuillez indiquer un numéro valide.",
+      "errorDomain": "Veuillez sélectionner un domaine."
+    },
+    "message": {
+      "greeting": "Bonjour Maître Abdelkader Fejjar,",
+      "intro": "Je souhaite prendre un rendez-vous.",
+      "nameLabel": "Nom :",
+      "phoneLabel": "Téléphone :",
+      "domainLabel": "Domaine concerné :",
+      "outro": "Merci de me communiquer vos disponibilités."
+    }
+  },
+  "cabinetPage": {
+    "heroTitle": "Un avocat, une méthode, une exigence constante.",
+    "heroDescription": "Le cabinet de Maître Abdelkader Fejjar accompagne à Casablanca une clientèle exigeante, en droit civil, pénal et des affaires, avec rigueur et discrétion.",
+    "parcoursEyebrow": "Parcours",
+    "parcoursTitle": "Une pratique construite sur le terrain.",
+    "p1": "Maître Abdelkader Fejjar exerce au Barreau de Casablanca avec une exigence constante de rigueur et de sérieux. Sa pratique s'est construite au contact direct des dossiers : audiences, négociations, rédaction d'actes et prise en charge de dossiers stratégiques, pour des particuliers comme pour des entreprises.",
+    "p2": "Cette pratique de terrain nourrit une approche pragmatique du droit : comprendre précisément les enjeux humains et économiques de chaque dossier avant de définir la stratégie juridique la plus adaptée.",
+    "p3": "Le cabinet intervient aussi bien pour des particuliers confrontés à une procédure familiale ou pénale, que pour des entrepreneurs et sociétés recherchant une prise en charge juridique fiable et rigoureuse sur le long terme.",
+    "valeursEyebrow": "Valeurs",
+    "valeursTitle": "Les principes qui guident chaque dossier.",
+    "valeurs": [
+      {
+        "t": "Rigueur",
+        "d": "Chaque dossier fait l'objet d'une analyse juridique précise, sans approximation."
+      },
+      {
+        "t": "Discrétion",
+        "d": "Le secret professionnel est une exigence absolue, en toutes circonstances."
+      },
+      {
+        "t": "Clarté",
+        "d": "Un langage accessible, des options expliquées simplement, sans jargon inutile."
+      },
+      {
+        "t": "Engagement",
+        "d": "Une défense déterminée des intérêts du client, à chaque étape de la procédure."
+      }
+    ]
+  },
+  "domainesPage": {
+    "heroTitle": "Un accompagnement juridique couvrant l'essentiel de vos besoins.",
+    "heroDescription": "Le cabinet assure la prise en charge, la défense et le suivi de dossiers, pour des particuliers, entrepreneurs et sociétés à Casablanca.",
+    "autresTitle": "Autres domaines"
+  },
+  "domainePage": {
+    "eyebrow": "Domaine d'intervention",
+    "prestationsTitle": "Prestations courantes",
+    "ctaSecondary": "Exposer ma situation",
+    "autresDomainesTitle": "Autres domaines"
+  },
+  "mentionsLegales": {
+    "eyebrow": "Informations légales",
+    "title": "Mentions légales",
+    "editeurTitle": "Éditeur du site",
+    "editeurText": "Le présent site est édité par Maître Abdelkader Fejjar, avocat inscrit au Barreau de Casablanca, exerçant à titre individuel.",
+    "directeurTitle": "Directeur de la publication",
+    "directeurText": "Maître Abdelkader Fejjar.",
+    "hebergementTitle": "Hébergement",
+    "hebergementText": "Ce site est hébergé par Vercel Inc., 340 S Lemon Ave #4133, Walnut, CA 91789, États-Unis.",
+    "propriteTitle": "Propriété intellectuelle",
+    "proprieteText": "L'ensemble des contenus présents sur ce site (textes, structure, graphismes) est protégé au titre du droit d'auteur. Toute reproduction, même partielle, est soumise à autorisation préalable.",
+    "responsabiliteTitle": "Responsabilité",
+    "responsabiliteText": "Les informations diffusées sur ce site sont fournies à titre général et ne remplacent pas la prise en charge personnalisée d'un dossier par le cabinet. Pour toute question relative à votre situation, il est recommandé de prendre contact directement avec le cabinet.",
+    "litigesTitle": "Litiges",
+    "litigesText": "Le présent site est soumis au droit marocain. Tout litige relatif à son utilisation relève de la compétence des juridictions de Casablanca."
+  },
+  "politiqueConfidentialite": {
+    "eyebrow": "Vos données",
+    "title": "Politique de confidentialité",
+    "donneesTitle": "Données collectées",
+    "donneesText": "Lorsque vous utilisez le formulaire de contact ou le service de prise de rendez-vous WhatsApp de ce site, les données suivantes sont collectées : nom, adresse e-mail, numéro de téléphone, domaine juridique concerné et contenu de votre message.",
+    "finaliteTitle": "Finalité du traitement",
+    "finaliteText": "Ces données sont exclusivement utilisées par le cabinet afin de traiter votre demande de rendez-vous et de vous recontacter. Elles ne sont ni cédées ni vendues à des tiers.",
+    "dureeTitle": "Durée de conservation",
+    "dureeText": "Les données transmises via le formulaire de contact sont conservées pendant la durée nécessaire au traitement de votre demande, puis archivées conformément aux obligations légales applicables à la profession d'avocat.",
+    "droitsTitle": "Vos droits",
+    "droitsText": "Conformément à la législation applicable en matière de protection des données personnelles, vous disposez d'un droit d'accès, de rectification et de suppression des données vous concernant. Pour exercer ces droits, vous pouvez contacter le cabinet à l'adresse fejjar.abdelkader@gmail.com.",
+    "cookiesTitle": "Cookies",
+    "cookiesText": "Ce site n'utilise pas de cookies publicitaires ou de suivi à des fins commerciales. Seuls des éléments techniques nécessaires au bon fonctionnement du site peuvent être utilisés.",
+    "securiteTitle": "Sécurité",
+    "securiteText": "Des mesures techniques raisonnables sont mises en œuvre pour protéger les données transmises via ce site contre tout accès non autorisé.",
+    "whatsappTitle": "Prise de rendez-vous via WhatsApp",
+    "whatsappText": "Le bouton WhatsApp ouvre une conversation directement avec WhatsApp Inc. (Meta), en dehors de ce site. Les échanges qui en résultent sont soumis à la politique de confidentialité de WhatsApp."
+  },
+  "domains": {
+    "order": [
+      "droit-du-travail",
+      "recouvrement",
+      "droit-de-la-famille",
+      "droit-commercial-affaires",
+      "droit-penal",
+      "droit-civil",
+      "droit-immobilier",
+      "autre"
+    ],
+    "items": {
+      "droit-du-travail": {
+        "nom": "Droit du travail",
+        "resume": "Prise en charge et représentation en matière de relations de travail, pour employeurs et salariés.",
+        "description": "Le cabinet accompagne employeurs et salariés sur l'ensemble des questions liées au contrat de travail : rupture, licenciement, harcèlement, négociation collective et représentation devant les juridictions sociales.",
+        "prestations": [
+          "Licenciement et rupture du contrat",
+          "Contentieux prud'homal",
+          "Rédaction de contrats de travail",
+          "Règlement intérieur et négociation collective"
+        ]
+      },
+      "recouvrement": {
+        "nom": "Recouvrement précontentieux et contentieux",
+        "resume": "Recouvrement de créances, de la mise en demeure jusqu'à l'exécution forcée du jugement.",
+        "description": "Le cabinet prend en charge le recouvrement de créances impayées, en phase amiable comme judiciaire : mise en demeure, injonction de payer, assignation, et suivi de l'exécution des décisions obtenues.",
+        "prestations": [
+          "Mise en demeure et relance amiable",
+          "Injonction de payer",
+          "Assignation et procédure au fond",
+          "Exécution forcée des jugements"
+        ]
+      },
+      "droit-de-la-famille": {
+        "nom": "Droit de la famille",
+        "resume": "Accompagnement des particuliers dans les procédures familiales, avec discrétion et fermeté.",
+        "description": "Le cabinet accompagne ses clients dans l'ensemble des procédures relevant du droit de la famille : divorce (par consentement mutuel ou contentieux), garde des enfants, pension alimentaire, filiation et succession. Une attention particulière est portée à la dimension humaine de ces dossiers, traités avec la confidentialité qu'ils exigent.",
+        "prestations": [
+          "Divorce, par consentement mutuel ou contentieux",
+          "Garde et droit de visite des enfants",
+          "Pension alimentaire",
+          "Successions et partages"
+        ]
+      },
+      "droit-commercial-affaires": {
+        "nom": "Droit commercial et droit des affaires",
+        "resume": "Prise en charge des dossiers d'entreprises et accompagnement des dirigeants dans leurs décisions stratégiques.",
+        "description": "Le cabinet accompagne dirigeants, sociétés et investisseurs dans la prise en charge de l'ensemble de leurs dossiers relevant du droit commercial et du droit des affaires : constitution de société, contrats commerciaux, contentieux entre associés, recouvrement de créances commerciales.",
+        "prestations": [
+          "Constitution et restructuration de sociétés",
+          "Rédaction et négociation de contrats commerciaux",
+          "Contentieux commercial et litiges entre associés",
+          "Procédures collectives"
+        ]
+      },
+      "droit-penal": {
+        "nom": "Droit pénal",
+        "resume": "Défense pénale rigoureuse, de la garde à vue jusqu'à la décision définitive.",
+        "description": "Le cabinet assure la défense des personnes poursuivies ou victimes d'infractions pénales, à tous les stades de la procédure : garde à vue, instruction, audience, voies de recours. Chaque dossier est traité avec la même exigence de rigueur.",
+        "prestations": [
+          "Assistance en garde à vue",
+          "Défense pénale devant les juridictions",
+          "Constitution de partie civile",
+          "Voies de recours"
+        ]
+      },
+      "droit-civil": {
+        "nom": "Droit civil",
+        "resume": "Défense de vos intérêts dans les litiges civils : contrats, responsabilité, obligations et actes juridiques.",
+        "description": "Le cabinet prend en charge les litiges relevant du droit civil général : inexécution contractuelle, responsabilité civile délictuelle, troubles de voisinage, et rédaction ou contestation d'actes juridiques.",
+        "prestations": [
+          "Contentieux contractuel",
+          "Responsabilité civile délictuelle",
+          "Troubles de voisinage",
+          "Rédaction et contestation d'actes juridiques"
+        ]
+      },
+      "droit-immobilier": {
+        "nom": "Droit immobilier",
+        "resume": "Sécurisation des transactions et résolution des litiges immobiliers pour particuliers et investisseurs.",
+        "description": "Le cabinet intervient en amont pour sécuriser les transactions immobilières — vente, copropriété, bail — et en aval pour résoudre les litiges : conflits de voisinage, contentieux locatifs, expropriation, vices cachés.",
+        "prestations": [
+          "Rédaction et audit d'actes de vente",
+          "Baux commerciaux et d'habitation",
+          "Litiges de copropriété",
+          "Expropriation et indemnisation"
+        ]
+      },
+      "autre": {
+        "nom": "Autre",
+        "resume": "Le cabinet peut également prendre en charge d'autres matières juridiques, selon les besoins spécifiques de chaque client.",
+        "description": "Au-delà de ses domaines de prédilection, le cabinet accompagne ses clients sur d'autres questions juridiques ponctuelles ou spécifiques. Chaque demande fait l'objet d'une étude préalable afin de déterminer si le dossier peut être pris en charge directement ou orienté vers un confrère spécialisé.",
+        "prestations": [
+          "Analyse préalable de votre demande",
+          "Orientation vers le bon interlocuteur si nécessaire",
+          "Prise en charge ponctuelle de questions juridiques diverses",
+          "Mise en relation avec des confrères spécialisés si besoin"
+        ]
+      }
+    }
+  }
+}
