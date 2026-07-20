@@ -28,7 +28,11 @@ export function Header() {
   return (
     <header className="sticky top-0 z-50 bg-blanc-casse/95 backdrop-blur-sm border-b border-noir/10">
       <Container className="flex items-center justify-between py-5 gap-4">
-        <Link href="/" className="flex items-center gap-3" onClick={() => setOpen(false)}>
+        <Link
+  href="/"
+  className="flex items-center gap-3 flex-1 min-w-0"
+  onClick={() => setOpen(false)}
+>
           <Image
             src="/images/logo.png"
             alt="Logo — Cabinet d'Avocat Maître Abdelkader Fejjar"
@@ -37,8 +41,8 @@ export function Header() {
             className="rounded-full shrink-0"
             priority
           />
-          <span className="flex flex-col leading-tight min-w-0">
-            <span className="font-display text-lg md:text-xl tracking-wide whitespace-nowrap">
+          <span className="flex flex-col leading-tight flex-1 min-w-0 overflow-hidden">
+            <span className="font-display text-[18px] md:text-xl tracking-wide whitespace-nowrap overflow-hidden text-ellipsis">
               {getCabinetName(locale)}
             </span>
             <span className="text-[11px]  tracking-[0.2em] text-dore-fonce">
