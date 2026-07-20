@@ -5,7 +5,7 @@ export const CABINET = {
   // Nom affiché en contexte arabe (En-tête, métadonnées SEO Open Graph /
   // Schema.org). Le nom propre "Maître Abdelkader Fejjar" reste inchangé en
   // français.
-  nomAr: "الأستاذ عبد القادر الفجار",
+  nomAr: "الأستاذ عبد القادر فجار",
   titre: "Avocat au Barreau de Casablanca",
   ville: "Casablanca",
   pays: "Maroc",

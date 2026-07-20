@@ -80,7 +80,7 @@ export default async function ContactPage({
 
           <Reveal delay={0.1}>
             <ContactForm />
-            <div className="mt-6 flex items-center gap-4 text-[12px] tracking-[0.1em] text-noir/40">
+            <div className="mt-6 flex items-center gap-4 text-[12px] uppercase tracking-[0.1em] text-noir/40">
               <span className="hairline-solid flex-1" />
               {t("orDivider")}
               <span className="hairline-solid flex-1" />

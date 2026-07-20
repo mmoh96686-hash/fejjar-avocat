@@ -37,8 +37,8 @@ export function Header() {
             className="rounded-full shrink-0"
             priority
           />
-          <span className="flex flex-col leading-tight">
-            <span className="font-display text-lg md:text-xl tracking-wide">
+          <span className="flex flex-col leading-tight min-w-0">
+            <span className="font-display text-lg md:text-xl tracking-wide whitespace-nowrap">
               {getCabinetName(locale)}
             </span>
             <span className="text-[11px]  tracking-[0.2em] text-dore-fonce">
